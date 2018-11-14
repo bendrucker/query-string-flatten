@@ -1,4 +1,4 @@
-# query-string-flatten [![Build Status](https://travis-ci.org/bendrucker/query-string-flatten.svg?branch=master)](https://travis-ci.org/bendrucker/query-string-flatten)
+# query-string-flatten [![Build Status](https://travis-ci.org/bendrucker/query-string-flatten.svg?branch=master)](https://travis-ci.org/bendrucker/query-string-flatten) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/query-string-flatten.svg)](https://greenkeeper.io/)
 
 > Create a query string with flattened object syntax
 
