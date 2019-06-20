@@ -30,8 +30,8 @@
     "index.js"
   ],
   "dependencies": {
-    "obj-query": "~1.0.0",
-    "query-string": "~6.7.0",
-    "value-pipe": "~1.0.0"
+    "obj-query": "^1.0.0",
+    "query-string": "^6.7.0",
+    "value-pipe": "^1.0.0"
   }
 }
